@@ -1,1 +1,1 @@
-# androidNotiObserver
+# android监听通知代码 已处理微信和支付宝监听，无任何注入
